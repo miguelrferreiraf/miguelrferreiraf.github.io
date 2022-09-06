@@ -5,6 +5,7 @@
 ### Neural Networks
 
 [Wine Quality Model through Neural Networks Regression](https://github.com/miguelrferreiraf/wine-quality-neural-networks-regression)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor, orci ut facilisis imperdiet, massa felis elementum lorem, eget pellentesque urna libero non ante. Proin sed pharetra dolor. Proin quis leo a diam tempor dictum. Phasellus auctor ut mauris at dignissim. 
 
