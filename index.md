@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor, orci ut
 
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf)
+<!-- [Project 2 title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Neural Networks for Linear Regression
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor, orci ut
 
 ### Logistic Regression
 
-[Project 1 Title](/sample_page)
+[Student Grade with Logistic Regression](https://github.com/miguelrferreiraf/student_grade_log_regression/tree/main)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Regression Tree
