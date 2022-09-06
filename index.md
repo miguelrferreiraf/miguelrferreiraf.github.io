@@ -37,13 +37,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor, orci ut
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Generative Machine Learning
+-->
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### LSTM Neural Networks
 
 - [Sentiment Analysis of Amazon Reviews](https://github.com/miguelrferreiraf/neural_nets_amazon_reviews)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor, orci ut facilisis imperdiet, massa felis elementum lorem, eget pellentesque urna libero non ante. Proin sed pharetra dolor. Proin quis leo a diam tempor dictum. Phasellus auctor ut mauris at dignissim.
+
+<!--
 
 ## Data Analysis
 
