@@ -47,12 +47,12 @@ In this project I show that not all machine learning is neural networks. We can 
 
 Here I demonstrate the use of some very advanced generative machine learning technologies as tokenizer and embeddings. There is also the LSTM neural network models, used for IAs that perform more abstract activities. Soon I will display more projects like this.
 
-<!--
-
 ## Data Analysis
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<!--
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
