@@ -26,7 +26,7 @@ In this project I use Neural Networks to procede a linear regression work, analy
 ### Logistic Regression
 
 [Student Grade with Logistic Regression](https://github.com/miguelrferreiraf/student_grade_log_regression/tree/main)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/stu_grade.PNG?raw=true"/>
 
 In this project I show that not all machine learning is neural networks. We can reach good results with less sophisticated models as logistic regression. Here I demonstrate a model that predict the probability of a student to not achieve a cut performance by analysing his/her previous grades, and social/economic status.
 
