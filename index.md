@@ -43,7 +43,7 @@ In this project I show that not all machine learning is neural networks. We can 
 ### LSTM Neural Networks
 
 [Sentiment Analysis of Amazon Reviews](https://github.com/miguelrferreiraf/neural_nets_amazon_reviews)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/lstm_neuron.PNG?raw=true"/>
 
 Here I demonstrate the use of some very advanced generative machine learning technologies as tokenizer and embeddings. There is also the LSTM neural network models, used for IAs that perform more abstract activities. Soon I will display more projects like this.
 
