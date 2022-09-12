@@ -5,7 +5,7 @@
 ### Neural Networks
 
 [Wine Quality Model through Neural Networks Regression](https://github.com/miguelrferreiraf/wine-quality-neural-networks-regression)
-<img src="images/all_oem.png?raw=true"/>
+<img src="images/all_oem2.png?raw=true"/>
 
 In this project I use Neural Networks to procede a linear regression work, analysing some data about the chemical composition of different wines and defining a model to, by getting new array data, result the probable quality of the wine. There's a very good work on EDA (exploratory data analysis) involved in order to better understand the data patterns.
 
