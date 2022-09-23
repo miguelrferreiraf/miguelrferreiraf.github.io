@@ -49,7 +49,7 @@ Here I demonstrate the use of some very advanced generative machine learning tec
 
 ## Data Analysis
 
-[Project 1 Title](/sample_page)
+[Basic concepts on static data](https://github.com/miguelrferreiraf/correlation_static_data_cars)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!--
