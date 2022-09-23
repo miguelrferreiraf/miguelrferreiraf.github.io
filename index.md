@@ -50,7 +50,7 @@ Here I demonstrate the use of some very advanced generative machine learning tec
 
 ## Data Analysis
 
-[Basic concepts on static data](https://github.com/miguelrferreiraf/correlation_static_data_cars)
+[Basic Concepts on Static Data](https://github.com/miguelrferreiraf/correlation_static_data_cars)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
