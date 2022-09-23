@@ -54,6 +54,8 @@ Here I demonstrate the use of some very advanced generative machine learning tec
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+In this small project, I show some basics of data science, specially on EDA and data correlation codes, by analysing some cars features and establishing how some features are correlated with others. 
+
 <!--
 
 ---
