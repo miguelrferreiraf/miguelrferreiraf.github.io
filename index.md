@@ -52,7 +52,7 @@ Here I demonstrate the use of some very advanced generative machine learning tec
 
 [Basic Concepts on Static Data](https://github.com/miguelrferreiraf/correlation_static_data_cars)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/matrix_scatter_plot_columns.png"/>
 
 In this small project, I show some basics of data science, specially on EDA and data correlation codes, by analysing some cars features and establishing how some features are correlated with others. 
 
