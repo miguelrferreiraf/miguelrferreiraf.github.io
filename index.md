@@ -64,7 +64,7 @@ In this small project, I show some basics of data science, specially on EDA and 
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/matrix_scatter_plot_columns.png"/>
 
 
 ### [Wine Quality Model through Neural Networks Regression](/_layouts/wine_quality_neural_networks_regression.html)
