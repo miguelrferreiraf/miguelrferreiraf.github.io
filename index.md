@@ -6,7 +6,7 @@ layout: default
 
 My name is Miguel Ferreira and I'm a web/destkop developer from Brazil, especialized in CRISP-DM data science methodology and predictive Machine Learning in time series.
 
-<img src="https://raw.githubusercontent.com/miguelrferreiraf/miguelrferreiraf.github.io/main/assets/img/firelight.jpg" heigth=70% width=70% align="center"></img>
+<div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/miguelrferreiraf.github.io/main/assets/img/firelight.jpg" heigth=70% width=70%></img><a><i>Pic of a bonfire. This photo of mine says I'm aware of this website status</i></a></div>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
