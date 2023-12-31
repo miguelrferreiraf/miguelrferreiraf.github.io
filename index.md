@@ -6,6 +6,8 @@ layout: default
 
 My name is Miguel Ferreira and I'm a web/destkop developer from Brazil, especialized in CRISP-DM data science methodology and predictive Machine Learning in time series.
 
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
