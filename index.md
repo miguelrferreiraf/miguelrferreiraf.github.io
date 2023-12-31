@@ -4,7 +4,7 @@ layout: default
 
 # Hello!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"></a>
 
-My name is Miguel Ferreira and I'm a web/destkop developer from Brazil, especialized in CRISP-DM data science methodology and predictive Machine Learning in time series.
+My name is **Miguel Ferreira** and I'm a *Data Scientist* *web/destkop developer* from Brazil, especialized in CRISP-DM data science methodology and predictive Machine Learning in time series.
 
 ![Bonfire](assets/img/firelight.jpg)
 <div align="center"><p><i>Pic of a bonfire. This photo of mine says I'm aware of this website status</i></p></div>
