@@ -9,7 +9,7 @@ My name is **Miguel Ferreira** and I'm a *Data Scientist* *web/destkop developer
 I have familiarity with most of **Python technologies** of **machine learning and data science**, and **MERN** web/desktop/GUI development, but my most important tool is my capability to link different fields of knowledge in a engaging algorithm. My interests include:
 
   - **CRISP-DM Data Science Methodology** :bar_chart:
-  - **Python frameworks for web/desktop development (Django/Flask/FastAPI...)** :clipboard:
+  - **Python frameworks for web/desktop development** :clipboard:
   - **Version control**
   - **Deploy and hosting** :beers:
 
