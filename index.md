@@ -9,8 +9,11 @@ My name is **Miguel Ferreira** and I'm a *Data Scientist* *web/destkop developer
 I have familiarity with most of **Python technologies** of **machine learning and data science**, and **MERN** web/desktop/GUI development, but my most important tool is my capability to link different fields of knowledge in a engaging algorithm. My interests include:
 
   - **CRISP-DM Data Science Methodology** :bar_chart:
-  - **Python frameworks for web/desktop development** :clipboard:
+  - **Python frameworks for web/desktop development (Django/Flask/FastAPI...)** :clipboard:
+  - **Version control**
   - **Deploy and hosting** :beers:
+
+When I'm not being nerd, I like reading old books (the older the better), playing chess, swimming, going in the youth meeting at church and studying so many mysticism that I feel I'm becoming a wizard...
 
 ![Bonfire](assets/img/firelight.jpg)
 <div align="center"><p><i>Pic of a bonfire. This photo of mine says I'm aware of this website status</i></p></div>
