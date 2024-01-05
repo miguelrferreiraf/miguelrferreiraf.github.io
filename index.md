@@ -6,7 +6,7 @@ layout: default
 
 My name is **Miguel Ferreira** and I'm a *Data Scientist* *web/destkop developer* from Brazil, especialized in CRISP-DM data science methodology and predictive Machine Learning in time series.
 
-I have familiarity with most of **Python technologies** of **machine learning and data science**, and **MERN** web/desktop/GUI development, but my most important tool is my capability to link different fields of knowledge in a engaging algorithm. My interests include:
+I hold the **IBM Data Scientist certificate** (*Coursera*) and other several professional certificates from *Udemy*, *Unimed* (network of hospitals) and *Digital Innovation One* (online tech profissionalization network) in several different tech areas as **Data Science, Machine Learning, Databases** and **MERN web/desktop development**. I'm proficient in tasks that envolves:    
 
   - **CRISP-DM Data Science Methodology** :bar_chart:
   - **Python frameworks for web/desktop development** :clipboard:
