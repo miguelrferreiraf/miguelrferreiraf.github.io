@@ -10,7 +10,7 @@ I hold the **IBM Data Scientist certificate** (*Coursera*) and other several pro
 
   - **CRISP-DM Data Science Methodology** :bar_chart:
   - **Python frameworks for web/desktop development** :clipboard:
-  - **Version control**
+  - **Version control** :octocat:
   - **Deploy and hosting** :beers:
 
 My most important tool is my capability to link different fields of knowledge in a engaging algorithm.
