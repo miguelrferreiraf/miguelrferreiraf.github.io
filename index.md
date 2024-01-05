@@ -13,9 +13,9 @@ I hold the **IBM Data Scientist certificate** (*Coursera*) and other several pro
   - **Version control** :octocat:
   - **Deploy and hosting** :beers:
 
-My most important tool is my capability to link different fields of knowledge in a engaging algorithm.
+My most important tool is my capability *to link different fields of knowledge on approaching the problem to be solved*.
 
-When I'm not being nerd, I like reading old books (the older the better), playing chess, swimming, going in the youth meeting at church and studying so many mysticism that I feel I'm becoming a wizard...
+When I'm not being a computer nerd, I like reading old books (the older the better), playing chess, swimming, going in the youth meeting at church and studying so many mysticism that I feel I'm becoming a wizard...
 
 ![Bonfire](assets/img/firelight.jpg)
 <div align="center"><p><i>Pic of a bonfire. This photo of mine says I'm aware of this website status</i></p></div>
