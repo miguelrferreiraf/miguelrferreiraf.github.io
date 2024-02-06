@@ -20,9 +20,7 @@ When I'm not being a computer nerd, I like reading old books (the older the bett
 ![Bonfire](assets/img/firelight.jpg)
 <div align="center"><p><i>Pic I took</i></p></div>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+You can check my curriculum [here](https://github.com/miguelrferreiraf/certificates/blob/main/Data_Scientist_Developer(en-original).pdf).
 
 There should be whitespace between paragraphs.
 
