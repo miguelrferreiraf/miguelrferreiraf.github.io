@@ -18,7 +18,7 @@ My most important tool is my capability to *link different fields of knowledge o
 When I'm not being a computer nerd, I like reading old books (the older the better), playing chess, swimming, going in the youth meeting at church and studying so many mysticism that I feel I'm becoming a wizard...
 
 ![Bonfire](assets/img/firelight.jpg)
-<div align="center"><p><i>Pic of a bonfire. This photo of mine says I'm aware of this website status</i></p></div>
+<div align="center"><p><i>Pic I took</i></p></div>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
