@@ -22,11 +22,9 @@ When I'm not being a computer nerd, I like reading old books (the older the bett
 
 You can check my curriculum [here](https://github.com/miguelrferreiraf/certificates/blob/main/Data_Scientist_Developer(en-original).pdf).
 
-There should be whitespace between paragraphs.
+Below, you can find some of my projects:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# IBM Capstone
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
