@@ -30,6 +30,8 @@ Below, you can find some of my projects:
   
 >*"In this Professional Certificate, learners developed and honed handson skills in Data Science and Machine Learning. Learners started with an orientation of Data Science and its Methodology, became familiar and used a variety of data science tools, learned Python and SQL, performed Data Visualization and Analysis, and created Machine Learning models. In the process they completed several labs and assignments on the cloud including a Capstone Project at the end to apply and demonstrate their knowledge and skills."*
 
+![IBM](assets/img/ibm.png)
+
 In this project, a full data science methodology is displayed in order to provide an insight about the launch of a rocket by Space-X. The purpose of this project is to establish data based information about the costs and the success rate of a lauch in order to realize if it is or if it isn't an affordable mission. Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_SpaceX-Data-Science_final-project).
 
 ## Header 2
