@@ -15,7 +15,7 @@ I hold the **IBM Data Scientist certificate** (*Coursera*) and several others pr
 
 My most important tool is my capability to *link different fields of knowledge on approaching the problem to be solved*.
 
-When I'm not being a computer nerd, I like reading old books (the older the better), playing chess, swimming, going in the youth meeting at church and studying so many mysticism that I feel I'm becoming a wizard...
+When I'm not being a computer nerd, I like reading old books (the older the better), playing chess, swimming, drawing and studying and working on new good but impracticable ideas.
 
 ![Bonfire](assets/img/firelight.jpg)
 <div align="center"><p><i>Pic I took</i></p></div>
