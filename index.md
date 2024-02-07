@@ -22,7 +22,7 @@ When I'm not being a computer nerd, I like reading old books (the older the bett
 
 You can check my curriculum [here](https://github.com/miguelrferreiraf/certificates/blob/main/Data_Scientist_Developer(en-original).pdf).
 
-Check all my certificates [here](https://github.com/miguelrferreiraf/certificates)
+Check all my certificates [here](https://github.com/miguelrferreiraf/certificates).
 
 Below, you can find some of my projects:
 
