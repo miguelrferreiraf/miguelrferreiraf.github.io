@@ -32,7 +32,9 @@ Below, you can find some of my projects:
 
 <div align="left"><img src="assets/img/IBM_SpaceX.jpg" alt="IBM" style="width: 100%;"></div>
 
-In this project, a full data science methodology is displayed in order to provide an insight about the launch of a rocket by Space-X. The purpose of this project is to establish data based information about the costs and the success rate of a lauch in order to realize if it is or if it isn't an affordable mission. Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_SpaceX-Data-Science_final-project).
+In this project, a full data science methodology is displayed in order to provide an insight about the launch of a rocket by Space-X. The purpose of this project is to establish data based information about the costs and the success rate of a lauch in order to realize if it is or if it isn't an affordable mission. 
+
+Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_SpaceX-Data-Science_final-project).
 
 ## Header 2
 
