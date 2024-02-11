@@ -38,6 +38,8 @@ Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_Space
 
 # LSTM/RNN fo Movie Review Predictor with Flask
 
+<div align="left"><img src="https://raw.githubusercontent.com/miguelrferreiraf/basic_LR_Flask/main/img/flask-logo-version-2.png" alt="IBM" style="width: 100%;"></div>
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
