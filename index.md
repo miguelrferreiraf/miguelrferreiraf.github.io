@@ -36,7 +36,7 @@ In this project, a full data science methodology is displayed in order to provid
 
 Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_SpaceX-Data-Science_final-project).
 
-## Header 2
+## LSTM/RNN fo Movie Review Predictor with Flask
 
 > This is a blockquote following a header.
 >
