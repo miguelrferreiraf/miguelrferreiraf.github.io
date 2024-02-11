@@ -40,6 +40,7 @@ Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_Space
 
 <div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/basic_LR_Flask/main/img/flask-logo-version-2.png" alt="IBM" style="width: 40%;"></div>
 
+
 In this small project using Flask, I deploy a Machine Learning LSTM Neural Networks to create a algorithm that can understand a movie critic and define if it's a good or bad review. The usage is very simples, as seen below.
 
 <div align="center"><img src="assets/img/home.png" alt="IBM" style="width: 100%;"></div>
