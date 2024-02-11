@@ -44,7 +44,7 @@ In this small project using Flask, I deploy a Machine Learning LSTM Neural Netwo
 
 <div align="center"><img src="assets/img/home.png" alt="IBM" style="width: 100%;"></div>
 
-Check out the code [here]().
+Check out the code [here](https://github.com/miguelrferreiraf/LSTM_RNN_movie-review-predictor).
 
 # Header 3
 
