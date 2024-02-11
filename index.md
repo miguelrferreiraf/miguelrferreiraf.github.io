@@ -38,7 +38,7 @@ Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_Space
 
 # LSTM/RNN fo Movie Review Predictor with Flask
 
-<div align="left"><img src="https://raw.githubusercontent.com/miguelrferreiraf/basic_LR_Flask/main/img/flask-logo-version-2.png" alt="IBM" style="width: 100%;"></div>
+<div align="left"><img src="https://raw.githubusercontent.com/miguelrferreiraf/basic_LR_Flask/main/img/flask-logo-version-2.png" alt="IBM" style="width: 60%;"></div>
 
 > This is a blockquote following a header.
 >
