@@ -38,6 +38,8 @@ Check full project [here](https://github.com/miguelrferreiraf/IBM_CAPSTONE_Space
 
 # LSTM/RNN fo Movie Review Predictor with Flask
 
+<div align="center"><img src="https://raw.githubusercontent.com/miguelrferreiraf/basic_LR_Flask/main/img/flask-logo-version-2.png" alt="IBM" style="width: 60%;"></div>
+
 <div align="center"><img src="assets/img/home.png" alt="IBM" style="width: 60%;"></div>
 
 # Header 3
