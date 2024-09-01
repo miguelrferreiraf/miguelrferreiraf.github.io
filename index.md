@@ -12,8 +12,8 @@ I hold the **IBM Data Scientist certificate** (*Coursera*) and several others pr
   - **Python frameworks for web development** :clipboard:
   - **Java frameworks for web development** :clipboard:
   - **Version control** :octocat:
-  - **Deploy and hosting** :beers:
-  - **Java OOP** 👾:
+  - **Deploy and hosting** 🍻
+  - **Java OOP** 👾
 
 My most important tool is my capability to *link different fields of knowledge on approaching the problem to be solved*.
 
