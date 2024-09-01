@@ -8,9 +8,9 @@ My name is **Miguel Ferreira** and I'm a *web developer* and *data scientist* fr
 
 I hold the **IBM Data Scientist certificate** (*Coursera*) and several others professional certificates from *Udemy*, *Unimed* (network of hospitals) and *Digital Innovation One* (online tech profissionalization network) in different tech areas as **Data Science, Machine Learning, Databases**, **MERN web development** and **Java Web Development**. I'm proficient in tasks that envolves:    
 
-  - **CRISP-DM Data Science Methodology** :bar_chart:
-  - **Python frameworks for web development** :clipboard:
-  - **Java frameworks for web development** :clipboard:
+  - **CRISP-DM Data Science Methodology** 📊
+  - **Python frameworks for web development** 📋
+  - **Java frameworks for web development** 📋
   - **Version control** :octocat:
   - **Deploy and hosting** 🍻
   - **Java OOP** 👾
