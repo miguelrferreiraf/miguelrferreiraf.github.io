@@ -22,7 +22,7 @@ When I'm not being a computer nerd, I like reading old books (the older the bett
 ![Bonfire](assets/img/firelight.jpg)
 <div align="center"><p><i>Pic I took</i></p></div>
 
-You can check my curriculum [here](https://github.com/miguelrferreiraf/certificates/blob/main/Data_Scientist_Developer(en-original).pdf).
+You can check my curriculum [here](https://github.com/miguelrferreiraf/certificates/blob/main/Curr%C3%ADculo_desenvolvedor.pdf).
 
 Check all my certificates [here](https://github.com/miguelrferreiraf/certificates).
 
