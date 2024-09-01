@@ -11,7 +11,7 @@ I hold the **IBM Data Scientist certificate** (*Coursera*) and several others pr
   - **CRISP-DM Data Science Methodology** 📊
   - **Python frameworks for web development** 📋
   - **Java frameworks for web development** 📑
-  - **Version control** :octocat:
+  - **Version control** 🛠️
   - **Deploy and hosting** 🍻
   - **Java OOP** 👾
 
